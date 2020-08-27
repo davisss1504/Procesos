@@ -1,0 +1,13 @@
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\bin\Debug\netcoreapp3.1\DeberCarreraHilos.exe
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\bin\Debug\netcoreapp3.1\DeberCarreraHilos.deps.json
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\bin\Debug\netcoreapp3.1\DeberCarreraHilos.runtimeconfig.json
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\bin\Debug\netcoreapp3.1\DeberCarreraHilos.runtimeconfig.dev.json
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\bin\Debug\netcoreapp3.1\DeberCarreraHilos.dll
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\bin\Debug\netcoreapp3.1\DeberCarreraHilos.pdb
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\obj\Debug\netcoreapp3.1\DeberCarreraHilos.csprojAssemblyReference.cache
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\obj\Debug\netcoreapp3.1\DeberCarreraHilos.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\obj\Debug\netcoreapp3.1\DeberCarreraHilos.AssemblyInfo.cs
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\obj\Debug\netcoreapp3.1\DeberCarreraHilos.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\obj\Debug\netcoreapp3.1\DeberCarreraHilos.dll
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\obj\Debug\netcoreapp3.1\DeberCarreraHilos.pdb
+C:\Users\cesar\source\repos\DeberHilos\DeberCarreraHilos\obj\Debug\netcoreapp3.1\DeberCarreraHilos.genruntimeconfig.cache
