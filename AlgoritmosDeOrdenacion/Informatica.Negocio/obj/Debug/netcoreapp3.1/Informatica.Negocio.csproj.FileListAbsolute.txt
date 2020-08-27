@@ -1,0 +1,9 @@
+C:\Users\cesar\source\repos\Informatica\Informatica.Negocio\bin\Debug\netcoreapp3.1\Informatica.Negocio.deps.json
+C:\Users\cesar\source\repos\Informatica\Informatica.Negocio\bin\Debug\netcoreapp3.1\Informatica.Negocio.dll
+C:\Users\cesar\source\repos\Informatica\Informatica.Negocio\bin\Debug\netcoreapp3.1\Informatica.Negocio.pdb
+C:\Users\cesar\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.AssemblyInfoInputs.cache
+C:\Users\cesar\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.AssemblyInfo.cs
+C:\Users\cesar\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.dll
+C:\Users\cesar\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.pdb
+C:\Users\cesar\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.csprojAssemblyReference.cache
