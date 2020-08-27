@@ -1,0 +1,381 @@
+﻿2020-08-27T00:16:14.2421814-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-08-27T00:16:14.2423695-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.3.41 in Framework netcore31 in x64 mode execution started
+2020-08-27T00:16:14.2423730-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-08-27T00:16:14.2450711-05:00;VSTestExecutionThread;Info;Current UserName: 'David', MachineName: 'DESKTOP-HO2H4JG'
+2020-08-27T00:16:14.2830319-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-27T00:16:14.2835885-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\cesar\source\repos\SpecFlowProject1\TestResults" (default)
+2020-08-27T00:16:14.2837853-05:00;VSTestExecutionThread;Info;Profile: 
+2020-08-27T00:16:14.3417323-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\cesar\source\repos\SpecFlowProject1\TestResults\Unnamed project__2020-08-27T001614.log
+2020-08-27T00:16:14.3482662-05:00;Thread#12;Info;Checking activation
+2020-08-27T00:16:14.4906929-05:00;Thread#12;Info;Activated.
+2020-08-27T00:16:14.4910932-05:00;Thread#12;Info;Activation check completed
+2020-08-27T00:16:14.4912987-05:00;Thread#12;Info;Starting test run
+2020-08-27T00:16:14.6216079-05:00;Thread#12;Info;Discovering target: Default
+2020-08-27T00:16:14.6220265-05:00;Thread#12;Info;Discovering tests from assembly: C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-27T00:16:14.7566544-05:00;Thread#12;Info;Discovered tests from assembly: C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-27T00:16:14.7581189-05:00:Test Suite Dump
+2020-08-27T00:16:14.7600367-05:00:#0: Unnamed project/ - 
+2020-08-27T00:16:14.7600740-05:00:#1: Default - 
+2020-08-27T00:16:14.7600791-05:00:#2: SpecFlowProject1 - 
+2020-08-27T00:16:14.7600816-05:00:#9: Final Average - 
+2020-08-27T00:16:14.7618145-05:00:#10: Average three notes, Variant 0 - TestAssembly:SpecFlowProject1/Feature:Final+Average/Scenario:Average+three+notes%2c+Variant+0
+2020-08-27T00:16:14.7618765-05:00:#11: Average three notes, Variant 1 - TestAssembly:SpecFlowProject1/Feature:Final+Average/Scenario:Average+three+notes%2c+Variant+1
+2020-08-27T00:16:14.7618998-05:00:#12: Average three notes, Variant 2 - TestAssembly:SpecFlowProject1/Feature:Final+Average/Scenario:Average+three+notes%2c+Variant+2
+2020-08-27T00:16:14.7619718-05:00:End: Test Suite Dump
+2020-08-27T00:16:14.7893078-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-27T00:16:14.7928044-05:00:Thread#:Scheduler: testitem #10 from normal test queue 
+2020-08-27T00:16:14.7929843-05:00:Thread#0:Scheduler: considering testitem #10 for thread 0
+2020-08-27T00:16:14.7972447-05:00:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-27T00:16:14.7972644-05:00:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2020-08-27T00:16:14.7972672-05:00:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2020-08-27T00:16:14.7972739-05:00:Thread#0:Scheduler: using testitem #10 for thread 0
+2020-08-27T00:16:14.7982283-05:00:Thread#0:Scheduler: Test #10 is scheduled for thread
+2020-08-27T00:16:14.8021382-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-27T00:16:14.8062579-05:00:Thread #0: creating new test thread executor for SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-08-27T00:16:14.8108010-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-27T00:16:14.8111394-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-27T00:16:14.8146129-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-08-27T00:16:14.8175756-05:00:starting Out Of Process Executor
+2020-08-27T00:16:14.8197987-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:14.8225410-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-08-27T00:16:14.8225601-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-08-27T00:16:14.8244257-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:14.8249176-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-08-27T00:16:14.8251029-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-08-27T00:16:14.8251723-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:14.8330036-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:14.8330245-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-27T00:16:14.8331016-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-27T00:16:14.8331655-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:14.8334716-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:14.8334776-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-27T00:16:14.8335401-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-27T00:16:14.8335768-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:14.8339005-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:14.8339072-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-27T00:16:14.8339518-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-27T00:16:14.8339869-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:14.8378668-05:00:Starting callback TCP Rpc server
+2020-08-27T00:16:14.8592305-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-08-27T00:16:14.8592801-05:00:Started callback TCP Rpc server on port 32768
+2020-08-27T00:16:14.8592825-05:00:Starting logger TCP Rpc server
+2020-08-27T00:16:14.8611556-05:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-08-27T00:16:14.8611804-05:00:Started logger TCP Rpc server on port 32769
+2020-08-27T00:16:14.9663528-05:00:Executing test executor at 'dotnet' 'exec "C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 16380 --uniqueId "2020-08-27T001614" --outputFolder "C:\Users\cesar\source\repos\SpecFlowProject1\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:14.9956598-05:00:Executor with PID 9316 has been started successfully.
+2020-08-27T00:16:15.0021870-05:00:Out of Process Executor 9316 started
+2020-08-27T00:16:15.0022089-05:00:Waiting for endpoint
+2020-08-27T00:16:15.7081840-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:15.7082008-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-08-27T00:16:15.7082032-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-08-27T00:16:15.7082062-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:15.7082076-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-08-27T00:16:15.7082303-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:15.7082380-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-08-27T00:16:15.7082419-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-08-27T00:16:15.7082474-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:15.7082512-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-08-27T00:16:15.7082509-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-08-27T00:16:15.7082849-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:15.7083441-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-08-27T00:16:15.7084122-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:15.7092304-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:15.7158832-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-27T00:16:15.7158750-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:15.7158877-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-27T00:16:15.7160600-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-27T00:16:15.7161284-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:15.7164708-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:15.7164800-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-27T00:16:15.7165540-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-27T00:16:15.7166144-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:15.7166747-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-27T00:16:15.7167343-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:15.7169213-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:15.7169269-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-27T00:16:15.7169480-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:15.7169518-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-27T00:16:15.7169918-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-27T00:16:15.7169973-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-27T00:16:15.7170395-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:15.7170522-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:15.7172181-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:15.7172216-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-27T00:16:15.7172592-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-27T00:16:15.7172911-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:15.7180731-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:15.7180931-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:15.7188642-05:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:15.7188766-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-08-27T00:16:15.7188796-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-08-27T00:16:15.7188824-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:15.7188836-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-08-27T00:16:15.7189263-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-08-27T00:16:15.7189854-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:15.7196949-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:15.7197086-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-27T00:16:15.7197542-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-27T00:16:15.7197897-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:15.7199661-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:15.7199743-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-27T00:16:15.7200168-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-27T00:16:15.7200513-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:15.7202269-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:15.7202345-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-27T00:16:15.7202757-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-27T00:16:15.7203091-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:16.7142727-05:00:Remote executor port received: 32770
+2020-08-27T00:16:16.7153480-05:00:Creating executor TCP client on port 32770
+2020-08-27T00:16:16.7168080-05:00:Created executor TCP client on port 32770
+2020-08-27T00:16:16.7168372-05:00:Connecting to remote executor TCP server
+2020-08-27T00:16:16.7243868-05:00:Connected remote executor TCP server
+2020-08-27T00:16:16.7251935-05:00:trying to connect to Out of Process Executor the 1 attempt
+2020-08-27T00:16:16.7252344-05:00:Connection to Out of Process Executor established in the 1 attempt
+2020-08-27T00:16:16.9926207-05:00:2020-08-27T00:16:16.9879695-05:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll on test thread #0
+2020-08-27T00:16:17.0017109-05:00:Endpoint 9316 started
+2020-08-27T00:16:17.0273793-05:00:2020-08-27T00:16:17.0268769-05:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-08-27T00:16:17.1747047-05:00:2020-08-27T00:16:17.1741379-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-27T00:16:17.1785811-05:00:2020-08-27T00:16:17.1780598-05:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-08-27T00:16:17.1824824-05:00:2020-08-27T00:16:17.1820206-05:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\cesar\.nuget\packages\specflow\3.3.30\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-08-27T00:16:17.3236576-05:00:2020-08-27T00:16:17.3222889-05:00:Thread#0:T:-> Loading plugin C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-08-27T00:16:17.3286725-05:00:2020-08-27T00:16:17.3259196-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-27T00:16:17.3390101-05:00:2020-08-27T00:16:17.3358963-05:00:Thread#0:T:-> Using default config
+2020-08-27T00:16:17.3577377-05:00:2020-08-27T00:16:17.3534072-05:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-08-27T00:16:17.3694510-05:00:2020-08-27T00:16:17.3585514-05:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-08-27T00:16:17.3766913-05:00:2020-08-27T00:16:17.3706032-05:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\cesar\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-08-27T00:16:17.3915304-05:00:2020-08-27T00:16:17.3791738-05:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-08-27T00:16:17.3932573-05:00:2020-08-27T00:16:17.3922856-05:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-08-27T00:16:17.3947701-05:00:2020-08-27T00:16:17.3941445-05:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\cesar\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-08-27T00:16:17.4078626-05:00:2020-08-27T00:16:17.4073021-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:17.4091602-05:00:2020-08-27T00:16:17.4081819-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-08-27T00:16:17.4104337-05:00:2020-08-27T00:16:17.4099082-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\cesar\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-08-27T00:16:17.4567735-05:00:2020-08-27T00:16:17.4563078-05:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-08-27T00:16:17.4574637-05:00:2020-08-27T00:16:17.4571567-05:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-08-27T00:16:17.4583207-05:00:2020-08-27T00:16:17.4579833-05:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\cesar\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-08-27T00:16:17.6913551-05:00:Thread#0: Test #10/0 is started on thread #0
+2020-08-27T00:16:17.7273695-05:00:2020-08-27T00:16:17.7267578-05:00:Thread#0:B:Given first note is 6
+2020-08-27T00:16:17.7477521-05:00:2020-08-27T00:16:17.7472585-05:00:Assembly resolving Calculos.Negocio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-08-27T00:16:17.7483893-05:00:2020-08-27T00:16:17.7480882-05:00:[AssemblyCache] Trying to resolve 'Calculos.Negocio' from .deps.json file
+2020-08-27T00:16:17.7497208-05:00:2020-08-27T00:16:17.7493469-05:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Calculos.Negocio', found in dependency map, but unable to resolve a path in ['Calculos.Negocio.dll']
+2020-08-27T00:16:17.7503685-05:00:2020-08-27T00:16:17.7500430-05:00:[AssemblyCache] Could not resolve 'Calculos.Negocio' from .deps.json
+2020-08-27T00:16:17.7524249-05:00:2020-08-27T00:16:17.7520202-05:00:[AssemblyCache] Trying to resolve 'Calculos.Negocio' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:17.7574090-05:00:2020-08-27T00:16:17.7569696-05:00:[AssemblyCache] Trying to resolve 'Calculos.Negocio' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Calculos.Negocio.dll'
+2020-08-27T00:16:17.7583922-05:00:2020-08-27T00:16:17.7579198-05:00:[AssemblyCache] Found file 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Calculos.Negocio.dll' for assembly 'Calculos.Negocio'
+2020-08-27T00:16:17.7595951-05:00:2020-08-27T00:16:17.7592396-05:00:[AssemblyCache] Resolved 'Calculos.Negocio' to C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Calculos.Negocio.dll
+2020-08-27T00:16:17.7668344-05:00:2020-08-27T00:16:17.7661421-05:00:Thread#0:T:done: FinalAverageSteps.GivenFirstNoteIs(6) (0,0s)
+2020-08-27T00:16:18.7067458-05:00:2020-08-27T00:16:17.7690861-05:00:Thread#0:B:And second note is 6
+2020-08-27T00:16:18.7183752-05:00:2020-08-27T00:16:18.7151422-05:00:Thread#0:T:done: FinalAverageSteps.GivenSecondNoteIs(6) (0,0s)
+2020-08-27T00:16:18.7234753-05:00:2020-08-27T00:16:18.7226324-05:00:Thread#0:B:And third note is 7
+2020-08-27T00:16:18.7285634-05:00:2020-08-27T00:16:18.7277020-05:00:Thread#0:T:done: FinalAverageSteps.GivenThirdNoteIs(7) (0,0s)
+2020-08-27T00:16:18.7305276-05:00:2020-08-27T00:16:18.7299392-05:00:Thread#0:B:When the notes are averaged
+2020-08-27T00:16:18.7365059-05:00:2020-08-27T00:16:18.7341781-05:00:Thread#0:T:done: FinalAverageSteps.WhenTheNotesAreAveraged() (0,0s)
+2020-08-27T00:16:18.7409496-05:00:2020-08-27T00:16:18.7403214-05:00:Thread#0:B:Then average total 9.5
+2020-08-27T00:16:18.7439029-05:00:2020-08-27T00:16:18.7432853-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:18.7450863-05:00:2020-08-27T00:16:18.7444691-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' from .deps.json file
+2020-08-27T00:16:18.7470881-05:00:2020-08-27T00:16:18.7464999-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.TestFramework' to 'C:\Users\cesar\.nuget\packages\mstest.testframework\2.1.2\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll'
+2020-08-27T00:16:18.7580884-05:00:2020-08-27T00:16:18.7555969-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Culture=neutral, PublicKeyToken=null
+2020-08-27T00:16:18.7602284-05:00:2020-08-27T00:16:18.7596455-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework.resources, Version=14.0.0.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:18.7621018-05:00:2020-08-27T00:16:18.7612243-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' from .deps.json file
+2020-08-27T00:16:18.7634707-05:00:2020-08-27T00:16:18.7627613-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' from .deps.json
+2020-08-27T00:16:18.7647083-05:00:2020-08-27T00:16:18.7641117-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:18.7658665-05:00:2020-08-27T00:16:18.7652252-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2020-08-27T00:16:18.7675562-05:00:2020-08-27T00:16:18.7669058-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2020-08-27T00:16:18.7696671-05:00:2020-08-27T00:16:18.7683492-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:18.8122297-05:00:2020-08-27T00:16:18.7941403-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:18.8134771-05:00:2020-08-27T00:16:18.8128953-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2020-08-27T00:16:18.8148129-05:00:2020-08-27T00:16:18.8143050-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2020-08-27T00:16:18.8162178-05:00:2020-08-27T00:16:18.8156369-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:18.8236540-05:00:2020-08-27T00:16:18.8178886-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:18.8255544-05:00:2020-08-27T00:16:18.8247401-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2020-08-27T00:16:18.8268841-05:00:2020-08-27T00:16:18.8263288-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2020-08-27T00:16:18.8281056-05:00:2020-08-27T00:16:18.8276003-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:18.8298395-05:00:2020-08-27T00:16:18.8293291-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:18.8309983-05:00:2020-08-27T00:16:18.8303732-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll'
+2020-08-27T00:16:18.8327441-05:00:2020-08-27T00:16:18.8319221-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.exe'
+2020-08-27T00:16:18.8347905-05:00:2020-08-27T00:16:18.8337060-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:18.8427283-05:00:2020-08-27T00:16:18.8419608-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Culture=neutral, PublicKeyToken=null
+2020-08-27T00:16:18.8442084-05:00:2020-08-27T00:16:18.8436493-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework.resources, Version=14.0.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:18.8897589-05:00:2020-08-27T00:16:18.8891910-05:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<6.333333333333333>. Actual:<9.5>. 
+2020-08-27T00:16:18.9153721-05:00:Thread#0:TestItem#10:Scheduler: reschedule tests for testitem #10
+2020-08-27T00:16:18.9196851-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-27T00:16:18.9198133-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #10
+2020-08-27T00:16:18.9198225-05:00:Thread#0:Scheduler: considering testitem #10 for thread 0
+2020-08-27T00:16:18.9198858-05:00:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-27T00:16:18.9198908-05:00:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2020-08-27T00:16:18.9198926-05:00:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2020-08-27T00:16:18.9198946-05:00:Thread#0:Scheduler: using testitem #10 for thread 0
+2020-08-27T00:16:18.9199348-05:00:Thread#0:Scheduler: Test #10 is scheduled for thread
+2020-08-27T00:16:18.9199861-05:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-08-27T00:16:18.9977240-05:00:Thread#0: Test #10/0 is finished on thread #0 as Failed within 1,3049103 seconds
+2020-08-27T00:16:19.0046030-05:00:Thread#0: Test #10/1 is started on thread #0
+2020-08-27T00:16:19.0070799-05:00:2020-08-27T00:16:19.0063426-05:00:Thread#0:B:Given first note is 6
+2020-08-27T00:16:19.0082150-05:00:2020-08-27T00:16:19.0078384-05:00:Thread#0:T:done: FinalAverageSteps.GivenFirstNoteIs(6) (0,0s)
+2020-08-27T00:16:19.0088137-05:00:2020-08-27T00:16:19.0085462-05:00:Thread#0:B:And second note is 6
+2020-08-27T00:16:19.0095794-05:00:2020-08-27T00:16:19.0091922-05:00:Thread#0:T:done: FinalAverageSteps.GivenSecondNoteIs(6) (0,0s)
+2020-08-27T00:16:19.0101704-05:00:2020-08-27T00:16:19.0098541-05:00:Thread#0:B:And third note is 7
+2020-08-27T00:16:19.0109519-05:00:2020-08-27T00:16:19.0106716-05:00:Thread#0:T:done: FinalAverageSteps.GivenThirdNoteIs(7) (0,0s)
+2020-08-27T00:16:19.0116441-05:00:2020-08-27T00:16:19.0113354-05:00:Thread#0:B:When the notes are averaged
+2020-08-27T00:16:19.0124475-05:00:2020-08-27T00:16:19.0120912-05:00:Thread#0:T:done: FinalAverageSteps.WhenTheNotesAreAveraged() (0,0s)
+2020-08-27T00:16:19.0131077-05:00:2020-08-27T00:16:19.0127740-05:00:Thread#0:B:Then average total 9.5
+2020-08-27T00:16:19.0178404-05:00:2020-08-27T00:16:19.0148661-05:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<6.333333333333333>. Actual:<9.5>. 
+2020-08-27T00:16:19.0220615-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-27T00:16:19.0220915-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #10
+2020-08-27T00:16:19.0220974-05:00:Thread#0:Scheduler: considering testitem #10 for thread 0
+2020-08-27T00:16:19.0221503-05:00:Thread#0:TestItem#10:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-27T00:16:19.0221573-05:00:Thread#0:TestItem#10:runsOnOneOtherThreadSpecific:False
+2020-08-27T00:16:19.0221611-05:00:Thread#0:TestItem#10:runsOnOneOtherThreadUnspecific:False
+2020-08-27T00:16:19.0221640-05:00:Thread#0:Scheduler: using testitem #10 for thread 0
+2020-08-27T00:16:19.0221798-05:00:Thread#0:Scheduler: Test #10 is scheduled for thread
+2020-08-27T00:16:19.0221917-05:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-08-27T00:16:19.0244676-05:00:Thread#0: Test #10/1 is finished on thread #0 as Failed within 0,0197898 seconds
+2020-08-27T00:16:19.0252538-05:00:Thread#0: Test #10/2 is started on thread #0
+2020-08-27T00:16:19.0274097-05:00:2020-08-27T00:16:19.0261856-05:00:Thread#0:B:Given first note is 6
+2020-08-27T00:16:19.0293382-05:00:2020-08-27T00:16:19.0289301-05:00:Thread#0:T:done: FinalAverageSteps.GivenFirstNoteIs(6) (0,0s)
+2020-08-27T00:16:19.0300038-05:00:2020-08-27T00:16:19.0296641-05:00:Thread#0:B:And second note is 6
+2020-08-27T00:16:19.0342035-05:00:2020-08-27T00:16:19.0331378-05:00:Thread#0:T:done: FinalAverageSteps.GivenSecondNoteIs(6) (0,0s)
+2020-08-27T00:16:19.0361118-05:00:2020-08-27T00:16:19.0352098-05:00:Thread#0:B:And third note is 7
+2020-08-27T00:16:19.0370222-05:00:2020-08-27T00:16:19.0366974-05:00:Thread#0:T:done: FinalAverageSteps.GivenThirdNoteIs(7) (0,0s)
+2020-08-27T00:16:19.0376116-05:00:2020-08-27T00:16:19.0372956-05:00:Thread#0:B:When the notes are averaged
+2020-08-27T00:16:19.0384988-05:00:2020-08-27T00:16:19.0382021-05:00:Thread#0:T:done: FinalAverageSteps.WhenTheNotesAreAveraged() (0,0s)
+2020-08-27T00:16:19.0391702-05:00:2020-08-27T00:16:19.0388119-05:00:Thread#0:B:Then average total 9.5
+2020-08-27T00:16:19.0407037-05:00:2020-08-27T00:16:19.0403960-05:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<6.333333333333333>. Actual:<9.5>. 
+2020-08-27T00:16:19.0424971-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-27T00:16:19.0425149-05:00:Thread#:Scheduler: testitem #11 from normal test queue 
+2020-08-27T00:16:19.0425170-05:00:Thread#0:Scheduler: considering testitem #11 for thread 0
+2020-08-27T00:16:19.0425386-05:00:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-27T00:16:19.0425409-05:00:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2020-08-27T00:16:19.0425431-05:00:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2020-08-27T00:16:19.0425446-05:00:Thread#0:Scheduler: using testitem #11 for thread 0
+2020-08-27T00:16:19.0425543-05:00:Thread#0:Scheduler: Test #11 is scheduled for thread
+2020-08-27T00:16:19.0425723-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-27T00:16:19.0453175-05:00:Thread#0: Test #10/2 is finished on thread #0 as Failed within 0,0200184 seconds
+2020-08-27T00:16:19.0463452-05:00:Thread#0: Test #11/0 is started on thread #0
+2020-08-27T00:16:19.0482279-05:00:2020-08-27T00:16:19.0476534-05:00:Thread#0:B:Given first note is 5
+2020-08-27T00:16:19.0491930-05:00:2020-08-27T00:16:19.0488875-05:00:Thread#0:T:done: FinalAverageSteps.GivenFirstNoteIs(5) (0,0s)
+2020-08-27T00:16:19.0498675-05:00:2020-08-27T00:16:19.0495842-05:00:Thread#0:B:And second note is 5
+2020-08-27T00:16:19.0507184-05:00:2020-08-27T00:16:19.0503216-05:00:Thread#0:T:done: FinalAverageSteps.GivenSecondNoteIs(5) (0,0s)
+2020-08-27T00:16:19.0530026-05:00:2020-08-27T00:16:19.0515641-05:00:Thread#0:B:And third note is 3
+2020-08-27T00:16:19.0545625-05:00:2020-08-27T00:16:19.0540768-05:00:Thread#0:T:done: FinalAverageSteps.GivenThirdNoteIs(3) (0,0s)
+2020-08-27T00:16:19.0551170-05:00:2020-08-27T00:16:19.0548733-05:00:Thread#0:B:When the notes are averaged
+2020-08-27T00:16:19.0557999-05:00:2020-08-27T00:16:19.0555717-05:00:Thread#0:T:done: FinalAverageSteps.WhenTheNotesAreAveraged() (0,0s)
+2020-08-27T00:16:19.0563716-05:00:2020-08-27T00:16:19.0561557-05:00:Thread#0:B:Then average total 6.5
+2020-08-27T00:16:19.0579554-05:00:2020-08-27T00:16:19.0575986-05:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<4.333333333333333>. Actual:<6.5>. 
+2020-08-27T00:16:19.0599420-05:00:Thread#0:TestItem#11:Scheduler: reschedule tests for testitem #11
+2020-08-27T00:16:19.0606496-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-27T00:16:19.0606799-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #11
+2020-08-27T00:16:19.0606826-05:00:Thread#0:Scheduler: considering testitem #11 for thread 0
+2020-08-27T00:16:19.0607079-05:00:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-27T00:16:19.0607103-05:00:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2020-08-27T00:16:19.0607116-05:00:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2020-08-27T00:16:19.0607131-05:00:Thread#0:Scheduler: using testitem #11 for thread 0
+2020-08-27T00:16:19.0607223-05:00:Thread#0:Scheduler: Test #11 is scheduled for thread
+2020-08-27T00:16:19.0607283-05:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-08-27T00:16:19.0628644-05:00:Thread#0: Test #11/0 is finished on thread #0 as Failed within 0,0164795 seconds
+2020-08-27T00:16:19.0640818-05:00:Thread#0: Test #11/1 is started on thread #0
+2020-08-27T00:16:19.0657719-05:00:2020-08-27T00:16:19.0651107-05:00:Thread#0:B:Given first note is 5
+2020-08-27T00:16:19.0671641-05:00:2020-08-27T00:16:19.0664903-05:00:Thread#0:T:done: FinalAverageSteps.GivenFirstNoteIs(5) (0,0s)
+2020-08-27T00:16:19.0718551-05:00:2020-08-27T00:16:19.0713248-05:00:Thread#0:B:And second note is 5
+2020-08-27T00:16:19.0730955-05:00:2020-08-27T00:16:19.0725964-05:00:Thread#0:T:done: FinalAverageSteps.GivenSecondNoteIs(5) (0,0s)
+2020-08-27T00:16:19.0739110-05:00:2020-08-27T00:16:19.0734949-05:00:Thread#0:B:And third note is 3
+2020-08-27T00:16:19.0749866-05:00:2020-08-27T00:16:19.0745291-05:00:Thread#0:T:done: FinalAverageSteps.GivenThirdNoteIs(3) (0,0s)
+2020-08-27T00:16:19.0758564-05:00:2020-08-27T00:16:19.0754258-05:00:Thread#0:B:When the notes are averaged
+2020-08-27T00:16:19.0768924-05:00:2020-08-27T00:16:19.0764228-05:00:Thread#0:T:done: FinalAverageSteps.WhenTheNotesAreAveraged() (0,0s)
+2020-08-27T00:16:19.0778293-05:00:2020-08-27T00:16:19.0773143-05:00:Thread#0:B:Then average total 6.5
+2020-08-27T00:16:19.0804846-05:00:2020-08-27T00:16:19.0799455-05:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<4.333333333333333>. Actual:<6.5>. 
+2020-08-27T00:16:19.0856746-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-27T00:16:19.0857853-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #11
+2020-08-27T00:16:19.0857918-05:00:Thread#0:Scheduler: considering testitem #11 for thread 0
+2020-08-27T00:16:19.0858198-05:00:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-27T00:16:19.0858239-05:00:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2020-08-27T00:16:19.0858271-05:00:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2020-08-27T00:16:19.0858299-05:00:Thread#0:Scheduler: using testitem #11 for thread 0
+2020-08-27T00:16:19.0858445-05:00:Thread#0:Scheduler: Test #11 is scheduled for thread
+2020-08-27T00:16:19.0858531-05:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-08-27T00:16:19.0879871-05:00:Thread#0: Test #11/1 is finished on thread #0 as Failed within 0,023843 seconds
+2020-08-27T00:16:19.0887627-05:00:Thread#0: Test #11/2 is started on thread #0
+2020-08-27T00:16:19.0909034-05:00:2020-08-27T00:16:19.0902889-05:00:Thread#0:B:Given first note is 5
+2020-08-27T00:16:19.0920065-05:00:2020-08-27T00:16:19.0916489-05:00:Thread#0:T:done: FinalAverageSteps.GivenFirstNoteIs(5) (0,0s)
+2020-08-27T00:16:19.0924730-05:00:2020-08-27T00:16:19.0922526-05:00:Thread#0:B:And second note is 5
+2020-08-27T00:16:19.0931474-05:00:2020-08-27T00:16:19.0929183-05:00:Thread#0:T:done: FinalAverageSteps.GivenSecondNoteIs(5) (0,0s)
+2020-08-27T00:16:19.0937480-05:00:2020-08-27T00:16:19.0934458-05:00:Thread#0:B:And third note is 3
+2020-08-27T00:16:19.0944731-05:00:2020-08-27T00:16:19.0941580-05:00:Thread#0:T:done: FinalAverageSteps.GivenThirdNoteIs(3) (0,0s)
+2020-08-27T00:16:19.0949907-05:00:2020-08-27T00:16:19.0947237-05:00:Thread#0:B:When the notes are averaged
+2020-08-27T00:16:19.0957066-05:00:2020-08-27T00:16:19.0954048-05:00:Thread#0:T:done: FinalAverageSteps.WhenTheNotesAreAveraged() (0,0s)
+2020-08-27T00:16:19.0963087-05:00:2020-08-27T00:16:19.0960555-05:00:Thread#0:B:Then average total 6.5
+2020-08-27T00:16:19.0978991-05:00:2020-08-27T00:16:19.0975388-05:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<4.333333333333333>. Actual:<6.5>. 
+2020-08-27T00:16:19.0997654-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-27T00:16:19.0997989-05:00:Thread#:Scheduler: testitem #12 from normal test queue 
+2020-08-27T00:16:19.0998040-05:00:Thread#0:Scheduler: considering testitem #12 for thread 0
+2020-08-27T00:16:19.0998274-05:00:Thread#0:TestItem#12:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-27T00:16:19.0998297-05:00:Thread#0:TestItem#12:runsOnOneOtherThreadSpecific:False
+2020-08-27T00:16:19.0998310-05:00:Thread#0:TestItem#12:runsOnOneOtherThreadUnspecific:False
+2020-08-27T00:16:19.0998324-05:00:Thread#0:Scheduler: using testitem #12 for thread 0
+2020-08-27T00:16:19.0998415-05:00:Thread#0:Scheduler: Test #12 is scheduled for thread
+2020-08-27T00:16:19.0998479-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-27T00:16:19.1079316-05:00:Thread#0: Test #11/2 is finished on thread #0 as Failed within 0,0191181 seconds
+2020-08-27T00:16:19.1087482-05:00:Thread#0: Test #12/0 is started on thread #0
+2020-08-27T00:16:19.1107726-05:00:2020-08-27T00:16:19.1102335-05:00:Thread#0:B:Given first note is 5
+2020-08-27T00:16:19.1120785-05:00:2020-08-27T00:16:19.1114215-05:00:Thread#0:T:done: FinalAverageSteps.GivenFirstNoteIs(5) (0,0s)
+2020-08-27T00:16:19.1129260-05:00:2020-08-27T00:16:19.1125145-05:00:Thread#0:B:And second note is 10
+2020-08-27T00:16:19.1137415-05:00:2020-08-27T00:16:19.1134001-05:00:Thread#0:T:done: FinalAverageSteps.GivenSecondNoteIs(10) (0,0s)
+2020-08-27T00:16:19.1142008-05:00:2020-08-27T00:16:19.1139837-05:00:Thread#0:B:And third note is 10
+2020-08-27T00:16:19.1149270-05:00:2020-08-27T00:16:19.1146175-05:00:Thread#0:T:done: FinalAverageSteps.GivenThirdNoteIs(10) (0,0s)
+2020-08-27T00:16:19.1153855-05:00:2020-08-27T00:16:19.1151751-05:00:Thread#0:B:When the notes are averaged
+2020-08-27T00:16:19.1160061-05:00:2020-08-27T00:16:19.1157649-05:00:Thread#0:T:done: FinalAverageSteps.WhenTheNotesAreAveraged() (0,0s)
+2020-08-27T00:16:19.1166503-05:00:2020-08-27T00:16:19.1162844-05:00:Thread#0:B:Then average total 12.5
+2020-08-27T00:16:19.1193359-05:00:2020-08-27T00:16:19.1188255-05:00:Thread#0:T:error: Assert.AreEqual failed. Expected:<8.333333333333334>. Actual:<12.5>. 
+2020-08-27T00:16:19.1212055-05:00:Cancelling because configured number of failures reached
+2020-08-27T00:16:19.1260082-05:00:Thread#0: Test #12/0 is finished on thread #0 as Failed within 0,0172355 seconds
+2020-08-27T00:16:19.1371416-05:00:2020-08-27T00:16:19.1366831-05:00:Got Deinitialize Signal
+2020-08-27T00:16:19.1415149-05:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-08-27T00:16:19.1437179-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-08-27T00:16:19.1456419-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-08-27T00:16:19.1478238-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:19.1478498-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-08-27T00:16:19.1478550-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-08-27T00:16:19.1478612-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:19.1478648-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-08-27T00:16:19.1479093-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-08-27T00:16:19.1479441-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-27T00:16:19.1489436-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:19.1489606-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-27T00:16:19.1490097-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-27T00:16:19.1490453-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-27T00:16:19.1492242-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:19.1492329-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-27T00:16:19.1492769-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-27T00:16:19.1493119-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-27T00:16:19.1494952-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:19.1495008-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-27T00:16:19.1495520-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-27T00:16:19.1495877-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-27T00:16:19.1500485-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-27T00:16:19.1606282-05:00:Thread#-1:Scheduler: get next test for thread -1
+2020-08-27T00:16:19.1606509-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-08-27T00:16:19.1606534-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-08-27T00:16:19.1701466-05:00;Thread#12;Info;test run finished
+2020-08-27T00:16:19.1705123-05:00;Thread#12;Info;publishing test results
+2020-08-27T00:16:19.1709236-05:00;Thread#12;Info;Not publishing results.
+2020-08-27T00:16:19.1710604-05:00;Thread#12;Info;test results published
+2020-08-27T00:16:19.1711434-05:00;Thread#12;Info;generating reports
+2020-08-27T00:16:19.2954065-05:00;Thread#12;Info;Starting external report generation process
+2020-08-27T00:16:21.0090539-05:00;Thread#12;Info;Successfully generated reports.
+2020-08-27T00:16:21.0138874-05:00;Thread#12;Info;Successfully generated reports
+2020-08-27T00:16:21.0308736-05:00:Total: 3 (test executions: 7)
+2020-08-27T00:16:21.0363554-05:00:Succeeded: 0
+2020-08-27T00:16:21.0367698-05:00:Ignored: 0
+2020-08-27T00:16:21.0371125-05:00:Pending: 0
+2020-08-27T00:16:21.0371308-05:00:Skipped: 0
+2020-08-27T00:16:21.0374418-05:00:Failed: 3
+2020-08-27T00:16:21.0445456-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-08-27T00:16:21.0447202-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\cesar\source\repos\SpecFlowProject1\TestResults\Unnamed project__2020-08-27T001614.html'
+========== End of log file ==========

@@ -1,0 +1,417 @@
+﻿2020-08-11T23:30:41.2156492-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-08-11T23:30:41.2158338-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.3.41 in Framework netcore31 in x64 mode execution started
+2020-08-11T23:30:41.2158372-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-08-11T23:30:41.2182827-05:00;VSTestExecutionThread;Info;Current UserName: 'David', MachineName: 'DESKTOP-HO2H4JG'
+2020-08-11T23:30:41.2532348-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-11T23:30:41.2535642-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\cesar\source\repos\SpecFlowProject1\TestResults" (default)
+2020-08-11T23:30:41.2536354-05:00;VSTestExecutionThread;Info;Profile: 
+2020-08-11T23:30:41.3138513-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\cesar\source\repos\SpecFlowProject1\TestResults\Unnamed project__2020-08-11T233041.log
+2020-08-11T23:30:41.3202691-05:00;Thread#12;Info;Checking activation
+2020-08-11T23:30:41.4366213-05:00;Thread#12;Info;Activated.
+2020-08-11T23:30:41.4370316-05:00;Thread#12;Info;Activation check completed
+2020-08-11T23:30:41.4371314-05:00;Thread#12;Info;Starting test run
+2020-08-11T23:30:41.5384295-05:00;Thread#12;Info;Discovering target: Default
+2020-08-11T23:30:41.5389947-05:00;Thread#12;Info;Discovering tests from assembly: C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-11T23:30:41.6739026-05:00;Thread#12;Info;Discovered tests from assembly: C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2020-08-11T23:30:41.6763958-05:00:Test Suite Dump
+2020-08-11T23:30:41.6788584-05:00:#0: Unnamed project/ - 
+2020-08-11T23:30:41.6788863-05:00:#1: Default - 
+2020-08-11T23:30:41.6788897-05:00:#2: SpecFlowProject1 - 
+2020-08-11T23:30:41.6789035-05:00:#3: Aprobacion - 
+2020-08-11T23:30:41.6789074-05:00:#6: Calculadora - 
+2020-08-11T23:30:41.6789096-05:00:#8: Calculator - 
+2020-08-11T23:30:41.6789116-05:00:#10: Juego de minas - 
+2020-08-11T23:30:41.6819796-05:00:#4: Calificación mayor o igual a 7 - TestAssembly:SpecFlowProject1/Feature:Aprobacion/Scenario:Calificaci%c3%b3n+mayor+o+igual+a+7
+2020-08-11T23:30:41.6820275-05:00:#5: Calificación es 6 - TestAssembly:SpecFlowProject1/Feature:Aprobacion/Scenario:Calificaci%c3%b3n+es+6
+2020-08-11T23:30:41.6827413-05:00:#7: Añadir dos números - TestAssembly:SpecFlowProject1/Feature:Calculadora/Scenario:A%c3%b1adir+dos+n%c3%bameros
+2020-08-11T23:30:41.6827823-05:00:#9: Add two numbers - TestAssembly:SpecFlowProject1/Feature:Calculator/Scenario:Add+two+numbers
+2020-08-11T23:30:41.6827987-05:00:#11: Ingreso - TestAssembly:SpecFlowProject1/Feature:Juego+de+minas/Scenario:Ingreso
+2020-08-11T23:30:41.6828930-05:00:End: Test Suite Dump
+2020-08-11T23:30:41.7138563-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T23:30:41.7186211-05:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-08-11T23:30:41.7187202-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-11T23:30:41.7230771-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T23:30:41.7231287-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-11T23:30:41.7231350-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-11T23:30:41.7231565-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-11T23:30:41.7246199-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-11T23:30:41.7277091-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-11T23:30:41.7325647-05:00:Thread #0: creating new test thread executor for SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-08-11T23:30:41.7376559-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-11T23:30:41.7380807-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-08-11T23:30:41.7437269-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-08-11T23:30:41.7470930-05:00:starting Out Of Process Executor
+2020-08-11T23:30:41.7492160-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T23:30:41.7521128-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-08-11T23:30:41.7521353-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-08-11T23:30:41.7535143-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:41.7540219-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-08-11T23:30:41.7541749-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-08-11T23:30:41.7542646-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:41.7647839-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T23:30:41.7648129-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-11T23:30:41.7649253-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-11T23:30:41.7649830-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T23:30:41.7652924-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T23:30:41.7653260-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-11T23:30:41.7653864-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-11T23:30:41.7654351-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T23:30:41.7656820-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T23:30:41.7656905-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.dll'
+2020-08-11T23:30:41.7657584-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Validation.exe'
+2020-08-11T23:30:41.7658173-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T23:30:41.7703191-05:00:Starting callback TCP Rpc server
+2020-08-11T23:30:41.8008183-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2020-08-11T23:30:41.8008936-05:00:Started callback TCP Rpc server on port 32768
+2020-08-11T23:30:41.8008998-05:00:Starting logger TCP Rpc server
+2020-08-11T23:30:41.8039817-05:00:Asynchronously starting background TCP Rpc Server on port 32769
+2020-08-11T23:30:41.8040263-05:00:Started logger TCP Rpc server on port 32769
+2020-08-11T23:30:41.9190947-05:00:Executing test executor at 'dotnet' 'exec "C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 6804 --uniqueId "2020-08-11T233041" --outputFolder "C:\Users\cesar\source\repos\SpecFlowProject1\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:41.9514036-05:00:Executor with PID 10100 has been started successfully.
+2020-08-11T23:30:41.9637411-05:00:Out of Process Executor 10100 started
+2020-08-11T23:30:41.9637557-05:00:Waiting for endpoint
+2020-08-11T23:30:42.4375372-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T23:30:42.4375569-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2020-08-11T23:30:42.4375666-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2020-08-11T23:30:42.4375697-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:42.4375726-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2020-08-11T23:30:42.4376099-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2020-08-11T23:30:42.4376482-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:42.4385696-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T23:30:42.4385866-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-11T23:30:42.4386513-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-11T23:30:42.4387155-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T23:30:42.4389780-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T23:30:42.4389879-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-11T23:30:42.4390582-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-11T23:30:42.4391250-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T23:30:42.4394074-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T23:30:42.4394159-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.dll'
+2020-08-11T23:30:42.4394739-05:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\StreamJsonRpc.resources.exe'
+2020-08-11T23:30:42.4395083-05:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T23:30:42.4403026-05:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T23:30:42.4410721-05:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T23:30:42.4410878-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-08-11T23:30:42.4410904-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-08-11T23:30:42.4410975-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:42.4411012-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-08-11T23:30:42.4412651-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-08-11T23:30:42.4413880-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:42.4424700-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T23:30:42.4425209-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-11T23:30:42.4426017-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-11T23:30:42.4426710-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T23:30:42.4431514-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T23:30:42.4431668-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-11T23:30:42.4432345-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-11T23:30:42.4433061-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T23:30:42.4436164-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T23:30:42.4436240-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.dll'
+2020-08-11T23:30:42.4437011-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\Microsoft.VisualStudio.Threading.exe'
+2020-08-11T23:30:42.4437635-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T23:30:43.1646481-05:00:Remote executor port received: 32770
+2020-08-11T23:30:43.1672054-05:00:Creating executor TCP client on port 32770
+2020-08-11T23:30:43.1692190-05:00:Created executor TCP client on port 32770
+2020-08-11T23:30:43.1692565-05:00:Connecting to remote executor TCP server
+2020-08-11T23:30:43.1736170-05:00:Connected remote executor TCP server
+2020-08-11T23:30:43.1842158-05:00:trying to connect to Out of Process Executor the 1 attempt
+2020-08-11T23:30:43.1842468-05:00:Connection to Out of Process Executor established in the 1 attempt
+2020-08-11T23:30:43.4484000-05:00:2020-08-11T23:30:43.4466625-05:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll on test thread #0
+2020-08-11T23:30:43.4544603-05:00:Endpoint 10100 started
+2020-08-11T23:30:43.4765895-05:00:2020-08-11T23:30:43.4761453-05:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-08-11T23:30:43.6335497-05:00:2020-08-11T23:30:43.6329729-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-11T23:30:43.6376622-05:00:2020-08-11T23:30:43.6370605-05:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-08-11T23:30:43.6414336-05:00:2020-08-11T23:30:43.6409529-05:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\cesar\.nuget\packages\specflow\3.3.30\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-08-11T23:30:43.7746822-05:00:2020-08-11T23:30:43.7733130-05:00:Thread#0:T:-> Loading plugin C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-08-11T23:30:43.7798417-05:00:2020-08-11T23:30:43.7776031-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.3.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-08-11T23:30:43.7881400-05:00:2020-08-11T23:30:43.7849975-05:00:Thread#0:T:-> Using default config
+2020-08-11T23:30:43.8054281-05:00:2020-08-11T23:30:43.8022511-05:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-08-11T23:30:43.8131124-05:00:2020-08-11T23:30:43.8062383-05:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-08-11T23:30:43.8244515-05:00:2020-08-11T23:30:43.8142179-05:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\cesar\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-08-11T23:30:43.8313343-05:00:2020-08-11T23:30:43.8270324-05:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-08-11T23:30:43.8551841-05:00:2020-08-11T23:30:43.8321072-05:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-08-11T23:30:43.8572200-05:00:2020-08-11T23:30:43.8562351-05:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\cesar\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-08-11T23:30:43.8705294-05:00:2020-08-11T23:30:43.8700161-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T23:30:43.8712589-05:00:2020-08-11T23:30:43.8709027-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-08-11T23:30:43.8722304-05:00:2020-08-11T23:30:43.8718191-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\cesar\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-08-11T23:30:43.9130619-05:00:2020-08-11T23:30:43.9125187-05:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-08-11T23:30:43.9137931-05:00:2020-08-11T23:30:43.9134306-05:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-08-11T23:30:43.9147891-05:00:2020-08-11T23:30:43.9143349-05:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\cesar\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-08-11T23:30:44.1708912-05:00:Thread#0: Test #4/0 is started on thread #0
+2020-08-11T23:30:44.1818390-05:00:2020-08-11T23:30:44.1812473-05:00:Assembly resolving Gherkin, Version=6.0.0.0, Culture=neutral, PublicKeyToken=86496cfa5b4a5851
+2020-08-11T23:30:44.1831301-05:00:2020-08-11T23:30:44.1821736-05:00:[AssemblyCache] Trying to resolve 'Gherkin' from .deps.json file
+2020-08-11T23:30:44.1843317-05:00:2020-08-11T23:30:44.1838433-05:00:[AssemblyCache] Resolved 'Gherkin' to 'C:\Users\cesar\.nuget\packages\gherkin\6.0.0\lib\netstandard2.0\Gherkin.dll'
+2020-08-11T23:30:44.2581343-05:00:2020-08-11T23:30:44.2574696-05:00:Thread#0:B:Dado que estoy logeado
+2020-08-11T23:30:44.2700437-05:00:2020-08-11T23:30:44.2695469-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoQueEstoyLogeado(Boolean)' should have 0 parameters
+2020-08-11T23:30:44.2719668-05:00:2020-08-11T23:30:44.2714705-05:00:Thread#0:B:Y tengo el perfil de docente
+2020-08-11T23:30:44.2730312-05:00:2020-08-11T23:30:44.2726104-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoTengoElPerfilDeDocente(Boolean)' should have 0 parameters
+2020-08-11T23:30:44.2738636-05:00:2020-08-11T23:30:44.2734652-05:00:Thread#0:B:Y el estudiante es "David"
+2020-08-11T23:30:44.2780514-05:00:2020-08-11T23:30:44.2775222-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:44.2821207-05:00:2020-08-11T23:30:44.2816296-05:00:Thread#0:B:Y la nota es 7
+2020-08-11T23:30:44.2846743-05:00:2020-08-11T23:30:44.2841504-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:44.2857911-05:00:2020-08-11T23:30:44.2853585-05:00:Thread#0:B:Cuando apruebo
+2020-08-11T23:30:44.2867459-05:00:2020-08-11T23:30:44.2863338-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:44.2881723-05:00:2020-08-11T23:30:44.2874254-05:00:Thread#0:B:Entonces el estudiante es promovido
+2020-08-11T23:30:45.1546295-05:00:2020-08-11T23:30:44.2889407-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.3424199-05:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2020-08-11T23:30:45.3476983-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T23:30:45.3477844-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2020-08-11T23:30:45.3477918-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-11T23:30:45.3479124-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T23:30:45.3479185-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-11T23:30:45.3479207-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-11T23:30:45.3479230-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-11T23:30:45.3480024-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-11T23:30:45.3480516-05:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-08-11T23:30:45.4227555-05:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 1,2503359 seconds
+2020-08-11T23:30:45.4279154-05:00:Thread#0: Test #4/1 is started on thread #0
+2020-08-11T23:30:45.4311917-05:00:2020-08-11T23:30:45.4305796-05:00:Thread#0:B:Dado que estoy logeado
+2020-08-11T23:30:45.4326799-05:00:2020-08-11T23:30:45.4322064-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoQueEstoyLogeado(Boolean)' should have 0 parameters
+2020-08-11T23:30:45.4337705-05:00:2020-08-11T23:30:45.4332124-05:00:Thread#0:B:Y tengo el perfil de docente
+2020-08-11T23:30:45.4349945-05:00:2020-08-11T23:30:45.4344311-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoTengoElPerfilDeDocente(Boolean)' should have 0 parameters
+2020-08-11T23:30:45.4359491-05:00:2020-08-11T23:30:45.4355333-05:00:Thread#0:B:Y el estudiante es "David"
+2020-08-11T23:30:45.4371252-05:00:2020-08-11T23:30:45.4366447-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4380978-05:00:2020-08-11T23:30:45.4376586-05:00:Thread#0:B:Y la nota es 7
+2020-08-11T23:30:45.4392332-05:00:2020-08-11T23:30:45.4387614-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4401217-05:00:2020-08-11T23:30:45.4397259-05:00:Thread#0:B:Cuando apruebo
+2020-08-11T23:30:45.4410859-05:00:2020-08-11T23:30:45.4406668-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4421314-05:00:2020-08-11T23:30:45.4416977-05:00:Thread#0:B:Entonces el estudiante es promovido
+2020-08-11T23:30:45.4436209-05:00:2020-08-11T23:30:45.4428029-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4495327-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T23:30:45.4496497-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2020-08-11T23:30:45.4496597-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-08-11T23:30:45.4497379-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T23:30:45.4497486-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-08-11T23:30:45.4497531-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-08-11T23:30:45.4497564-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-08-11T23:30:45.4497780-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-08-11T23:30:45.4497953-05:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-08-11T23:30:45.4530200-05:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 0,0248709 seconds
+2020-08-11T23:30:45.4540652-05:00:Thread#0: Test #4/2 is started on thread #0
+2020-08-11T23:30:45.4559001-05:00:2020-08-11T23:30:45.4551324-05:00:Thread#0:B:Dado que estoy logeado
+2020-08-11T23:30:45.4572585-05:00:2020-08-11T23:30:45.4567014-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoQueEstoyLogeado(Boolean)' should have 0 parameters
+2020-08-11T23:30:45.4582172-05:00:2020-08-11T23:30:45.4577226-05:00:Thread#0:B:Y tengo el perfil de docente
+2020-08-11T23:30:45.4596224-05:00:2020-08-11T23:30:45.4590093-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoTengoElPerfilDeDocente(Boolean)' should have 0 parameters
+2020-08-11T23:30:45.4608808-05:00:2020-08-11T23:30:45.4602896-05:00:Thread#0:B:Y el estudiante es "David"
+2020-08-11T23:30:45.4618989-05:00:2020-08-11T23:30:45.4614520-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4629009-05:00:2020-08-11T23:30:45.4623396-05:00:Thread#0:B:Y la nota es 7
+2020-08-11T23:30:45.4639146-05:00:2020-08-11T23:30:45.4634856-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4647718-05:00:2020-08-11T23:30:45.4643134-05:00:Thread#0:B:Cuando apruebo
+2020-08-11T23:30:45.4655710-05:00:2020-08-11T23:30:45.4651998-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4662556-05:00:2020-08-11T23:30:45.4659337-05:00:Thread#0:B:Entonces el estudiante es promovido
+2020-08-11T23:30:45.4670107-05:00:2020-08-11T23:30:45.4666688-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4695554-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T23:30:45.4695771-05:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2020-08-11T23:30:45.4695796-05:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-08-11T23:30:45.4696025-05:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T23:30:45.4696053-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-08-11T23:30:45.4696079-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-08-11T23:30:45.4696096-05:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-08-11T23:30:45.4696213-05:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-08-11T23:30:45.4696512-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-11T23:30:45.4711999-05:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 0,0170909 seconds
+2020-08-11T23:30:45.4721668-05:00:Thread#0: Test #5/0 is started on thread #0
+2020-08-11T23:30:45.4751130-05:00:2020-08-11T23:30:45.4745558-05:00:Thread#0:B:Dado que estoy logeado
+2020-08-11T23:30:45.4766941-05:00:2020-08-11T23:30:45.4759600-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoQueEstoyLogeado(Boolean)' should have 0 parameters
+2020-08-11T23:30:45.4775480-05:00:2020-08-11T23:30:45.4771084-05:00:Thread#0:B:Y tengo el perfil de docente
+2020-08-11T23:30:45.4786105-05:00:2020-08-11T23:30:45.4781912-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoTengoElPerfilDeDocente(Boolean)' should have 0 parameters
+2020-08-11T23:30:45.4794025-05:00:2020-08-11T23:30:45.4790614-05:00:Thread#0:B:Y el estudiante es "David"
+2020-08-11T23:30:45.4801350-05:00:2020-08-11T23:30:45.4798185-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4808575-05:00:2020-08-11T23:30:45.4805230-05:00:Thread#0:B:Y la nota es 6
+2020-08-11T23:30:45.4816053-05:00:2020-08-11T23:30:45.4812465-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4821995-05:00:2020-08-11T23:30:45.4819065-05:00:Thread#0:B:Cuando apruebo
+2020-08-11T23:30:45.4829507-05:00:2020-08-11T23:30:45.4825825-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4836093-05:00:2020-08-11T23:30:45.4832518-05:00:Thread#0:B:Entonces el estudiante no es promovido
+2020-08-11T23:30:45.4842498-05:00:2020-08-11T23:30:45.4839933-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4859969-05:00:Thread#0:TestItem#5:Scheduler: reschedule tests for testitem #5
+2020-08-11T23:30:45.4867293-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T23:30:45.4867531-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2020-08-11T23:30:45.4867586-05:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-08-11T23:30:45.4867852-05:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T23:30:45.4867895-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-08-11T23:30:45.4867908-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-08-11T23:30:45.4867924-05:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-08-11T23:30:45.4868044-05:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-08-11T23:30:45.4868105-05:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2020-08-11T23:30:45.4883311-05:00:Thread#0: Test #5/0 is finished on thread #0 as Failed within 0,0160806 seconds
+2020-08-11T23:30:45.4892507-05:00:Thread#0: Test #5/1 is started on thread #0
+2020-08-11T23:30:45.4904381-05:00:2020-08-11T23:30:45.4899781-05:00:Thread#0:B:Dado que estoy logeado
+2020-08-11T23:30:45.4914795-05:00:2020-08-11T23:30:45.4910106-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoQueEstoyLogeado(Boolean)' should have 0 parameters
+2020-08-11T23:30:45.4921825-05:00:2020-08-11T23:30:45.4918220-05:00:Thread#0:B:Y tengo el perfil de docente
+2020-08-11T23:30:45.4932900-05:00:2020-08-11T23:30:45.4927814-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoTengoElPerfilDeDocente(Boolean)' should have 0 parameters
+2020-08-11T23:30:45.4940763-05:00:2020-08-11T23:30:45.4936835-05:00:Thread#0:B:Y el estudiante es "David"
+2020-08-11T23:30:45.4949011-05:00:2020-08-11T23:30:45.4945059-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4956408-05:00:2020-08-11T23:30:45.4952784-05:00:Thread#0:B:Y la nota es 6
+2020-08-11T23:30:45.4963536-05:00:2020-08-11T23:30:45.4960501-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4969824-05:00:2020-08-11T23:30:45.4967100-05:00:Thread#0:B:Cuando apruebo
+2020-08-11T23:30:45.4976509-05:00:2020-08-11T23:30:45.4973488-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.4982466-05:00:2020-08-11T23:30:45.4979114-05:00:Thread#0:B:Entonces el estudiante no es promovido
+2020-08-11T23:30:45.4989291-05:00:2020-08-11T23:30:45.4986163-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.5010622-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T23:30:45.5010791-05:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #5
+2020-08-11T23:30:45.5010944-05:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2020-08-11T23:30:45.5011448-05:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T23:30:45.5011469-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2020-08-11T23:30:45.5011493-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2020-08-11T23:30:45.5011507-05:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2020-08-11T23:30:45.5011625-05:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2020-08-11T23:30:45.5011689-05:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2020-08-11T23:30:45.5025572-05:00:Thread#0: Test #5/1 is finished on thread #0 as Failed within 0,0132719 seconds
+2020-08-11T23:30:45.5034138-05:00:Thread#0: Test #5/2 is started on thread #0
+2020-08-11T23:30:45.5072351-05:00:2020-08-11T23:30:45.5068093-05:00:Thread#0:B:Dado que estoy logeado
+2020-08-11T23:30:45.5082285-05:00:2020-08-11T23:30:45.5077921-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoQueEstoyLogeado(Boolean)' should have 0 parameters
+2020-08-11T23:30:45.5090790-05:00:2020-08-11T23:30:45.5086407-05:00:Thread#0:B:Y tengo el perfil de docente
+2020-08-11T23:30:45.5103982-05:00:2020-08-11T23:30:45.5099369-05:00:Thread#0:T:binding error: Parameter count mismatch! The binding method 'SpecFlowProject1:SpecFlowProject1.Steps.AprobacionSteps.DadoTengoElPerfilDeDocente(Boolean)' should have 0 parameters
+2020-08-11T23:30:45.5112111-05:00:2020-08-11T23:30:45.5108559-05:00:Thread#0:B:Y el estudiante es "David"
+2020-08-11T23:30:45.5120777-05:00:2020-08-11T23:30:45.5116911-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.5128080-05:00:2020-08-11T23:30:45.5124730-05:00:Thread#0:B:Y la nota es 6
+2020-08-11T23:30:45.5135756-05:00:2020-08-11T23:30:45.5132129-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.5142928-05:00:2020-08-11T23:30:45.5139330-05:00:Thread#0:B:Cuando apruebo
+2020-08-11T23:30:45.5151001-05:00:2020-08-11T23:30:45.5147519-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.5158518-05:00:2020-08-11T23:30:45.5155134-05:00:Thread#0:B:Entonces el estudiante no es promovido
+2020-08-11T23:30:45.5166037-05:00:2020-08-11T23:30:45.5162858-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:45.5189620-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T23:30:45.5189852-05:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2020-08-11T23:30:45.5189889-05:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2020-08-11T23:30:45.5190188-05:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T23:30:45.5190213-05:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2020-08-11T23:30:45.5190225-05:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2020-08-11T23:30:45.5190240-05:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2020-08-11T23:30:45.5190346-05:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2020-08-11T23:30:45.5190413-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-11T23:30:45.5212778-05:00:Thread#0: Test #5/2 is finished on thread #0 as Failed within 0,0178131 seconds
+2020-08-11T23:30:45.5221310-05:00:Thread#0: Test #7/0 is started on thread #0
+2020-08-11T23:30:45.5294925-05:00:2020-08-11T23:30:45.5290793-05:00:Thread#0:B:Dado el primer número es 80
+2020-08-11T23:30:45.5391965-05:00:2020-08-11T23:30:45.5387927-05:00:Assembly resolving Calculos.Negocio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-08-11T23:30:45.5398166-05:00:2020-08-11T23:30:45.5395309-05:00:[AssemblyCache] Trying to resolve 'Calculos.Negocio' from .deps.json file
+2020-08-11T23:30:45.5411156-05:00:2020-08-11T23:30:45.5407317-05:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'Calculos.Negocio', found in dependency map, but unable to resolve a path in ['Calculos.Negocio.dll']
+2020-08-11T23:30:45.5417953-05:00:2020-08-11T23:30:45.5414890-05:00:[AssemblyCache] Could not resolve 'Calculos.Negocio' from .deps.json
+2020-08-11T23:30:45.5456142-05:00:2020-08-11T23:30:45.5450908-05:00:[AssemblyCache] Trying to resolve 'Calculos.Negocio' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:45.5501705-05:00:2020-08-11T23:30:45.5497136-05:00:[AssemblyCache] Trying to resolve 'Calculos.Negocio' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Calculos.Negocio.dll'
+2020-08-11T23:30:45.5509722-05:00:2020-08-11T23:30:45.5506346-05:00:[AssemblyCache] Found file 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Calculos.Negocio.dll' for assembly 'Calculos.Negocio'
+2020-08-11T23:30:45.5522608-05:00:2020-08-11T23:30:45.5518374-05:00:[AssemblyCache] Resolved 'Calculos.Negocio' to C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\Calculos.Negocio.dll
+2020-08-11T23:30:45.5614962-05:00:2020-08-11T23:30:45.5609247-05:00:Thread#0:T:done: CalculadoraSteps.DadoElPrimerNumeroEs(80) (0,0s)
+2020-08-11T23:30:45.5625906-05:00:2020-08-11T23:30:45.5621334-05:00:Thread#0:B:Y el segundo número es 80
+2020-08-11T23:30:45.5658769-05:00:2020-08-11T23:30:45.5652910-05:00:Thread#0:T:done: CalculadoraSteps.DadoElSegundoNumeroEs(80) (0,0s)
+2020-08-11T23:30:45.5666729-05:00:2020-08-11T23:30:45.5662982-05:00:Thread#0:B:Cuando los dos números son sumados
+2020-08-11T23:30:45.5700322-05:00:2020-08-11T23:30:45.5694061-05:00:Thread#0:T:done: CalculadoraSteps.CuandoLosDosNumerosSonSumados() (0,0s)
+2020-08-11T23:30:45.5708765-05:00:2020-08-11T23:30:45.5705599-05:00:Thread#0:B:Entonces el resultado es 160
+2020-08-11T23:30:45.5738557-05:00:2020-08-11T23:30:45.5734127-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.TestFramework, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T23:30:45.5744542-05:00:2020-08-11T23:30:45.5741676-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.TestFramework' from .deps.json file
+2020-08-11T23:30:45.5755662-05:00:2020-08-11T23:30:45.5751245-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.TestFramework' to 'C:\Users\cesar\.nuget\packages\mstest.testframework\2.1.2\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll'
+2020-08-11T23:30:45.5788169-05:00:2020-08-11T23:30:45.5783892-05:00:Thread#0:T:done: CalculadoraSteps.EntoncesElResultadoEs(160) (0,0s)
+2020-08-11T23:30:45.5805929-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T23:30:45.5806104-05:00:Thread#:Scheduler: testitem #9 from normal test queue 
+2020-08-11T23:30:45.5806126-05:00:Thread#0:Scheduler: considering testitem #9 for thread 0
+2020-08-11T23:30:45.5806329-05:00:Thread#0:TestItem#9:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T23:30:45.5806351-05:00:Thread#0:TestItem#9:runsOnOneOtherThreadSpecific:False
+2020-08-11T23:30:45.5806365-05:00:Thread#0:TestItem#9:runsOnOneOtherThreadUnspecific:False
+2020-08-11T23:30:45.5806379-05:00:Thread#0:Scheduler: using testitem #9 for thread 0
+2020-08-11T23:30:45.5806483-05:00:Thread#0:Scheduler: Test #9 is scheduled for thread
+2020-08-11T23:30:45.5806629-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-11T23:30:45.5971297-05:00:Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0,0749604 seconds
+2020-08-11T23:30:45.5980741-05:00:Thread#0: Test #9/0 is started on thread #0
+2020-08-11T23:30:45.6017427-05:00:2020-08-11T23:30:45.6013116-05:00:Thread#0:B:Given the first number is 50
+2020-08-11T23:30:45.6034699-05:00:2020-08-11T23:30:45.6030283-05:00:Thread#0:T:done: CalculadorStep.GivenTheFirstNumberIs(50) (0,0s)
+2020-08-11T23:30:45.6042000-05:00:2020-08-11T23:30:45.6038818-05:00:Thread#0:B:And the second number is 70
+2020-08-11T23:30:45.6056777-05:00:2020-08-11T23:30:45.6052785-05:00:Thread#0:T:done: CalculadorStep.GivenTheSecondNumberIs(70) (0,0s)
+2020-08-11T23:30:45.6063499-05:00:2020-08-11T23:30:45.6060350-05:00:Thread#0:B:When the two numbers are added
+2020-08-11T23:30:45.6079349-05:00:2020-08-11T23:30:45.6075443-05:00:Thread#0:T:done: CalculadorStep.WhenTheTwoNumbersAreAdded() (0,0s)
+2020-08-11T23:30:45.6086768-05:00:2020-08-11T23:30:45.6083230-05:00:Thread#0:B:Then the result should be 120
+2020-08-11T23:30:45.6110025-05:00:2020-08-11T23:30:45.6104948-05:00:Thread#0:T:done: CalculadorStep.ThenTheResultShouldBe(120) (0,0s)
+2020-08-11T23:30:45.6131380-05:00:Thread#0:Scheduler: get next test for thread 0
+2020-08-11T23:30:45.6131567-05:00:Thread#:Scheduler: testitem #11 from normal test queue 
+2020-08-11T23:30:45.6131590-05:00:Thread#0:Scheduler: considering testitem #11 for thread 0
+2020-08-11T23:30:45.6131776-05:00:Thread#0:TestItem#11:testItemMatchesCurrentTestThread:UnSpecific
+2020-08-11T23:30:45.6131797-05:00:Thread#0:TestItem#11:runsOnOneOtherThreadSpecific:False
+2020-08-11T23:30:45.6131820-05:00:Thread#0:TestItem#11:runsOnOneOtherThreadUnspecific:False
+2020-08-11T23:30:45.6131834-05:00:Thread#0:Scheduler: using testitem #11 for thread 0
+2020-08-11T23:30:45.6131934-05:00:Thread#0:Scheduler: Test #11 is scheduled for thread
+2020-08-11T23:30:45.6132011-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-08-11T23:30:45.6156074-05:00:Thread#0: Test #9/0 is finished on thread #0 as Succeeded within 0,0174961 seconds
+2020-08-11T23:30:45.6165895-05:00:Thread#0: Test #11/0 is started on thread #0
+2020-08-11T23:30:45.6222623-05:00:2020-08-11T23:30:45.6217553-05:00:Thread#0:B:Dado que estoy en el sistema
+2020-08-11T23:30:45.6279238-05:00:2020-08-11T23:30:45.6273195-05:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2020-08-11T23:30:45.6285926-05:00:2020-08-11T23:30:45.6283074-05:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2020-08-11T23:30:45.6294447-05:00:2020-08-11T23:30:45.6290948-05:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\cesar\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2020-08-11T23:30:48.9871492-05:00:2020-08-11T23:30:48.9703808-05:00:Thread#0:T:done: JuegoDeMinasSteps.DadoQueEstoyEnElSistema() (3,3s)
+2020-08-11T23:30:49.0387046-05:00:2020-08-11T23:30:49.0023895-05:00:Thread#0:B:Cuando registro mi "nombre"
+2020-08-11T23:30:49.3591996-05:00:2020-08-11T23:30:49.3580174-05:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T23:30:49.3646660-05:00:2020-08-11T23:30:49.3628650-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' from .deps.json file
+2020-08-11T23:30:49.3690929-05:00:2020-08-11T23:30:49.3667157-05:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' from .deps.json
+2020-08-11T23:30:49.3706885-05:00:2020-08-11T23:30:49.3698818-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:49.3720631-05:00:2020-08-11T23:30:49.3714150-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.dll'
+2020-08-11T23:30:49.3736246-05:00:2020-08-11T23:30:49.3728079-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.exe'
+2020-08-11T23:30:49.3752985-05:00:2020-08-11T23:30:49.3743551-05:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:49.3929839-05:00:2020-08-11T23:30:49.3913898-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T23:30:49.3950268-05:00:2020-08-11T23:30:49.3943459-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Net.Requests.resources.dll'
+2020-08-11T23:30:49.3961620-05:00:2020-08-11T23:30:49.3956149-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Net.Requests.resources.exe'
+2020-08-11T23:30:49.3975175-05:00:2020-08-11T23:30:49.3969448-05:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T23:30:49.3994658-05:00:2020-08-11T23:30:49.3986595-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T23:30:49.4004286-05:00:2020-08-11T23:30:49.3999354-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Net.Requests.resources.dll'
+2020-08-11T23:30:49.4032289-05:00:2020-08-11T23:30:49.4019447-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Net.Requests.resources.exe'
+2020-08-11T23:30:49.4045119-05:00:2020-08-11T23:30:49.4040573-05:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T23:30:49.4056077-05:00:2020-08-11T23:30:49.4052290-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T23:30:49.4061086-05:00:2020-08-11T23:30:49.4058375-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Net.Requests.resources.dll'
+2020-08-11T23:30:49.4067375-05:00:2020-08-11T23:30:49.4064351-05:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Net.Requests.resources.exe'
+2020-08-11T23:30:49.4073006-05:00:2020-08-11T23:30:49.4070188-05:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T23:30:49.4101347-05:00:2020-08-11T23:30:49.4094964-05:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T23:30:49.4353504-05:00:2020-08-11T23:30:49.4347413-05:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"#nombre"}
+2020-08-11T23:30:49.4362855-05:00:2020-08-11T23:30:49.4358708-05:00:Thread#0:T:  (Session info: chrome=84.0.4147.125)
+2020-08-11T23:30:49.4379463-05:00:2020-08-11T23:30:49.4374362-05:00:Thread#0:B:Entonces el juego inicializa
+2020-08-11T23:30:49.4472631-05:00:2020-08-11T23:30:49.4466820-05:00:Thread#0:T:skipped because of previous errors
+2020-08-11T23:30:49.4515666-05:00:Cancelling because configured number of failures reached
+2020-08-11T23:30:49.4586644-05:00:Thread#0: Test #11/0 is finished on thread #0 as Failed within 3,841869 seconds
+2020-08-11T23:30:49.4787000-05:00:2020-08-11T23:30:49.4781622-05:00:Got Deinitialize Signal
+2020-08-11T23:30:49.4861478-05:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-08-11T23:30:49.4874421-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-08-11T23:30:49.4902347-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-08-11T23:30:49.4945036-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es-MX, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T23:30:49.4945319-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-08-11T23:30:49.4945416-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-08-11T23:30:49.4945510-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:49.4945572-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-08-11T23:30:49.4946257-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-08-11T23:30:49.4946787-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\cesar\source\repos\SpecFlowProject1\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2020-08-11T23:30:49.4962735-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T23:30:49.4962922-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-11T23:30:49.4963570-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-11T23:30:49.4964087-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.6'
+2020-08-11T23:30:49.4966876-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T23:30:49.4966954-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-11T23:30:49.4967597-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-11T23:30:49.4968127-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.6'
+2020-08-11T23:30:49.4970706-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T23:30:49.4970783-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Diagnostics.Process.resources.dll'
+2020-08-11T23:30:49.4971715-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6\System.Diagnostics.Process.resources.exe'
+2020-08-11T23:30:49.4972727-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.6'
+2020-08-11T23:30:49.4980426-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=es, PublicKeyToken=b03f5f7f11d50a3a
+2020-08-11T23:30:49.5130058-05:00:Thread#-1:Scheduler: get next test for thread -1
+2020-08-11T23:30:49.5130630-05:00:Thread#:Scheduler: at the end of normal test queue
+2020-08-11T23:30:49.5130694-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-08-11T23:30:49.5244609-05:00;Thread#12;Info;test run finished
+2020-08-11T23:30:49.5248028-05:00;Thread#12;Info;publishing test results
+2020-08-11T23:30:49.5264179-05:00;Thread#12;Info;Not publishing results.
+2020-08-11T23:30:49.5276139-05:00;Thread#12;Info;test results published
+2020-08-11T23:30:49.5279314-05:00;Thread#12;Info;generating reports
+2020-08-11T23:30:49.7237722-05:00;Thread#12;Info;Starting external report generation process
+2020-08-11T23:30:52.5530515-05:00;Thread#12;Info;Successfully generated reports.
+2020-08-11T23:30:52.5570560-05:00;Thread#12;Info;Successfully generated reports
+2020-08-11T23:30:52.5664329-05:00:Total: 5 (test executions: 9)
+2020-08-11T23:30:52.5684530-05:00:Succeeded: 2
+2020-08-11T23:30:52.5688861-05:00:Ignored: 0
+2020-08-11T23:30:52.5692770-05:00:Pending: 0
+2020-08-11T23:30:52.5692864-05:00:Skipped: 0
+2020-08-11T23:30:52.5696426-05:00:Failed: 3
+2020-08-11T23:30:52.5774510-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-08-11T23:30:52.5777691-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\cesar\source\repos\SpecFlowProject1\TestResults\Unnamed project__2020-08-11T233041.html'
+========== End of log file ==========
